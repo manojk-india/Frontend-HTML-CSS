@@ -1,0 +1,17 @@
+.button1 {
+    background-color: rgb(202, 23, 23);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: opacity 0.14s;
+    padding: 20px;
+}
+
+.button1:hover {
+    opacity: 0.5;
+}
+
+.button1:active {
+    opacity: 0.1;
+}

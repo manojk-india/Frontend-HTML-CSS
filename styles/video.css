@@ -1,0 +1,54 @@
+.thumbnail {
+    width: 100%;
+}
+
+.channelpics {
+    vertical-align: top;
+}
+
+.channelinfos {
+    width: 200px;
+}
+
+.profile-pic {
+    width: 40px;
+    border-radius: 40px;
+    margin-top: 13px;
+}
+
+.thumbnail-row {
+    margin-bottom: 1px;
+}
+
+.video-info-grid {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.title {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    margin-bottom: 10px;
+
+}
+
+.author {
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 4px;
+}
+
+.stats {
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+
+}
+
+.video-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 40px;
+}
